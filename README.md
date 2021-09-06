@@ -7,5 +7,5 @@ Project Generates the bill for the customer as wells gives information regarding
 
 
 # Contact info 
-Linkedin : linkedin.com/in/shivang-babeley
-E-mail : shivangbabeley.2000@gmail.com
+Linkedin : https://www.linkedin.com/in/vishwesh-porwal-7153a01b0/
+E-mail : vishweshporwal@gmail.com
